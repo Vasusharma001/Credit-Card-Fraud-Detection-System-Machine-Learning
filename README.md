@@ -5,6 +5,8 @@ Credit card fraud is a major financial risk in today's digital world. This proje
 
 ## 🚀 Work Flow
 
+![ScreenShot](98783F3C-3809-4934-A881-667B32F8A5D4_1_201_a.jpeg)
+
 ## 🎯 Key Features
 ✅ Fraud detection using supervised learning algorithms  
 ✅ Data preprocessing & feature selection for optimal performance  
