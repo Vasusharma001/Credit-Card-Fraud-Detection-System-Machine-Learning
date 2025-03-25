@@ -3,6 +3,8 @@
 ## 🚀 Overview
 Credit card fraud is a major financial risk in today's digital world. This project leverages **Machine Learning** techniques to detect fraudulent transactions with high accuracy. Using advanced **data preprocessing, feature engineering, and classification models**, the system helps financial institutions identify and prevent fraud in real time.
 
+## 🚀 Work Flow
+
 ## 🎯 Key Features
 ✅ Fraud detection using supervised learning algorithms  
 ✅ Data preprocessing & feature selection for optimal performance  
